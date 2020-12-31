@@ -1,0 +1,32 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level": {
+        "id": "level",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAxMDEwMTAxMDEwMTA1MDEwMTAxMDEwMTAxMDEwMTAwMGIwMDAwMDAwMDAwMDAwMTAwMDAwMDAwMDAwMDA0MDAwMTAxMDEwMTAxMDEwMDAxMDAwMTAxMDMwMTAwMDQwMDAwMDAwMTAxMDEwMjAwMDEwMDAwMDAwMTAxMDAwMTAwMDAwMDAwMDAwMDAwMDAwMTAxMDEwMDAxMDEwMDAxMDAwMDAxMDEwMTAxMDEwMTAxMDYwMTAwMDEwMTAwMDEwMDAwMDYwMTAxMDEwMjAxMDEwMjAxMDAwMTAxMDAwMTAwMDAwMTAxMDEwMTAxMDYwMTAxMDEwMDAxMDcwMDAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwNzAwMDEwMDAxMDEwMjAxMDEwMTAxMDEwNTAxMDAwMTAxMDAwMTAwMDEwMTAwMDAwMDAwMDAwMDAxMDYwMTAxMDEwMDAxMDAwMTAxMDAwMTAxMDEwMTAwMDAwMTAwMDAwMDAwMDEwMDAxMDUwMDAxMDEwMjAxMDEwMDA3MDAwMTAyMDAwMDAwMDEwMTAwMDgwODA4MDkwOTA5MDIwMTAyMDEwMTAxMDAwMTAxMDAwMDAwMDAwMDAwMDAwMTAxMDEwMTAxMDEwMDBhMGEwYTBhMGEwMTAxMDgwMDAwMDAwMDAwMDAwMDBjMjIyMjIyMjIyMjIyMjIwMjAwMDAwMDIwMDAwMDAwMDIyMjIyMjIyMDIwMjIwMjAyMDAyMjIyMjAwMDIwMDIwMjAwMDAwMDIwMjIyMDAyMDIyMDIyMjIyMjIyMjAwMjAyMjAyMjIyMjIyMjIwMDIwMjIwMjIyMjIyMjIyMDAyMDIwMDAwMDAwMDAwMjAwMjAyMjIyMjIyMjIyMjIwMDIwMjIyMDAwMDAwMjIyMjAyMDIyMjIwMjIwMjIwMDAwMDAyMjIyMDIyMjIyMDIwMDIwMDIyMDAwMDIyMjIyMjIyMDIyMjAwMDAwMDIwMjIyMjAyMjIyMjIyMjIwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.floorMixed",
+            "sprites.dungeon.floorLight3",
+            "sprites.dungeon.floorDark3",
+            "sprites.dungeon.floorDark0",
+            "sprites.dungeon.floorDark5",
+            "sprites.dungeon.floorDarkDiamond",
+            "sprites.dungeon.floorLightMoss",
+            "sprites.builtin.brick",
+            "sprites.dungeon.darkGroundNorthWest0",
+            "sprites.builtin.crowd2",
+            "sprites.dungeon.doorClosedSouth",
+            "sprites.builtin.coral3"
+        ]
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
